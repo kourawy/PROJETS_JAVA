@@ -1,0 +1,9 @@
+Combien d'UE avons nous en L3 info ?
+6
+1
+Mme Voge est elle notre responsable d'études ?
+oui
+1
+Donnez l'acronyme d'une des ue de la l3 info
+DPP | COO | PDS | ARO | AEL | COMEIT
+4
