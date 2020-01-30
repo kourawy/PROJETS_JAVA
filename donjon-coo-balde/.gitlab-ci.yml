@@ -1,0 +1,5 @@
+image: commonci-fil:latest
+
+test:
+  script:
+    - mvn test

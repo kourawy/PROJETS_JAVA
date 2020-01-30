@@ -1,0 +1,11 @@
+bin/
+target/
+
+.idea
+coo-donjon.iml
+/.metadata/
+
+.classpath
+.project
+.settings/
+project/
